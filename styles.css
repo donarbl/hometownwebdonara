@@ -78,7 +78,7 @@ h1, h2, h3, p {
 }
 
 #next_image, #previous_image {
-    background-color: #3c096c;
+    background-color: black;
     color:#ffffff;
     border-radius: 28px;
     font-family: "Prata", serif; 
