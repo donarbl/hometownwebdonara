@@ -62,7 +62,7 @@ h1, h2, h3, p {
 }
 
 .assignment img {
-    display: block;
+    display: flex;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 30px;
@@ -78,10 +78,10 @@ h1, h2, h3, p {
 }
 
 #next_image, #previous_image {
-    background-color: black;
-    color:#ffffff;
+    background-color: white;
+    color:black;
     border-radius: 28px;
-    font-family: "Prata", serif; 
+    font-family: "EB Garamond", serif;
     font-weight: 400; 
     font-style: normal;
     font-size: 20px;  
